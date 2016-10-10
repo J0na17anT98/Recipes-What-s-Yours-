@@ -1,14 +1,14 @@
 //
 //  FirstViewController.swift
-//  Recipes! What's Yours?
+//  What's Your Recepie?
 //
-//  Created by Jonathan Tsistinas on 10/9/16.
+//  Created by Jonathan Tsistinas on 10/8/16.
 //  Copyright © 2016 Jonathan Tsistinas. All rights reserved.
 //
 
 import UIKit
 
-class FirstViewController: UIViewController {
+class RecepieVC: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()

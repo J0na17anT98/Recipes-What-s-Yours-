@@ -1,0 +1,6 @@
+framework module Pods_Recipes__What_s_Yours_ {
+  umbrella header "Pods-Recipes! What's Yours?-umbrella.h"
+
+  export *
+  module * { export * }
+}

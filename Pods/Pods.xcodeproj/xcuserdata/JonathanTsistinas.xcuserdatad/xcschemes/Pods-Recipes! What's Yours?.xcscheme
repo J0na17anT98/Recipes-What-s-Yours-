@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0800"
+   LastUpgradeVersion = "0700"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A31AAEB41DAAD8C900AA78A9"
-               BuildableName = "Recipes! What&apos;s Yours?.app"
-               BlueprintName = "Recipes! What&apos;s Yours?"
-               ReferencedContainer = "container:Recipes! What&apos;s Yours?.xcodeproj">
+               BlueprintIdentifier = "1A791CC09DB312D9EF2DE5D6DABB5DED"
+               BuildableName = "Pods_Recipes__What_s_Yours_.framework"
+               BlueprintName = "Pods-Recipes! What&apos;s Yours?"
+               ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -29,15 +29,6 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A31AAEB41DAAD8C900AA78A9"
-            BuildableName = "Recipes! What&apos;s Yours?.app"
-            BlueprintName = "Recipes! What&apos;s Yours?"
-            ReferencedContainer = "container:Recipes! What&apos;s Yours?.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -51,16 +42,15 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A31AAEB41DAAD8C900AA78A9"
-            BuildableName = "Recipes! What&apos;s Yours?.app"
-            BlueprintName = "Recipes! What&apos;s Yours?"
-            ReferencedContainer = "container:Recipes! What&apos;s Yours?.xcodeproj">
+            BlueprintIdentifier = "1A791CC09DB312D9EF2DE5D6DABB5DED"
+            BuildableName = "Pods_Recipes__What_s_Yours_.framework"
+            BlueprintName = "Pods-Recipes! What&apos;s Yours?"
+            ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -70,16 +60,6 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A31AAEB41DAAD8C900AA78A9"
-            BuildableName = "Recipes! What&apos;s Yours?.app"
-            BlueprintName = "Recipes! What&apos;s Yours?"
-            ReferencedContainer = "container:Recipes! What&apos;s Yours?.xcodeproj">
-         </BuildableReference>
-      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
